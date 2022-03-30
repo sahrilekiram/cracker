@@ -12,7 +12,7 @@ Perhatikan gambar berikut!
 
 Jika semua sudah terinstall kalian tinggal jalankan script dengan ketikan perintah di bawah ini :
 ````bash
-cd $HOME/cracker
+cd $HOME/crack
 python run.py 
 ````
 Untuk update script / mendapatkan update terbaru. Ketikan perintah di bawah ini :
@@ -23,7 +23,7 @@ git pull
 Jika script masih belum update / tidak bisa update. Ketikan perintah di bawah ini :
 ````
 cd $HOME
-rm -rf cracker
+rm -rf crack
  git clone https://github.com/sahrilekiram/cracker
 ````
 #### Methode crack :
