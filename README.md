@@ -24,7 +24,7 @@ Jika script masih belum update / tidak bisa update. Ketikan perintah di bawah in
 ````
 cd $HOME
 rm -rf crack
- git clone https://github.com/sahrilekiram/cracker
+ git clone https://github.com/sahrilekiram/crack
 ````
 #### Methode crack :
 • 01 Methode free (fast crack) <br>
